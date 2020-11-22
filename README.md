@@ -1,5 +1,5 @@
 Data Set
-For this blog, I have used the makeover Mondays dataset — Alcohol Consumption by Country. The dataset contains ranks of countries and liters of pure alcohol consumed per capita.
+I have used the makeover Mondays dataset — Alcohol Consumption by Country. The dataset contains ranks of countries and liters of pure alcohol consumed per capita.
 Link:https://data.world/makeovermonday/2019w26
 
 
